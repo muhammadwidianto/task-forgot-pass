@@ -4,7 +4,7 @@
 SIGN UP
 ![Screenshot (10)](https://user-images.githubusercontent.com/82139022/163918349-fd69485d-931c-4a2a-8dbe-1d3c00f5c9ef.png)
 
-DATA AKUN
+DATA ACCOUNT 
 ![Screenshot (11)](https://user-images.githubusercontent.com/82139022/163918366-1c66e834-24b1-4070-b254-fbeafa02ce7a.png)
 
 REGIST SUCCESS
